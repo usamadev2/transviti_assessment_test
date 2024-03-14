@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "808262353334",
+    "project_id": "solutions-sol",
+    "storage_bucket": "solutions-sol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808262353334:android:618ee3bd4b6b0ad68d8117",
+        "android_client_info": {
+          "package_name": "com.example.solution_sol_task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808262353334-6b919khgr32hcqgqqc3ch2vj8u789ilf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.solution_sol_task2",
+            "certificate_hash": "59896d295881b199ae75906ee754f1e879d21b3d"
+          }
+        },
+        {
+          "client_id": "808262353334-bf9cp08mh7g763i63qme6momo3qe5sqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Tkbf4nzH6l4jRJtXAM7hIMtcL1oQU4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808262353334-bf9cp08mh7g763i63qme6momo3qe5sqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808262353334-3oo3hkhf80j1e7b9j11l610gvs9hi8gh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.solutionSolTask2"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808262353334:android:3f68ddb11f0d506b8d8117",
+        "android_client_info": {
+          "package_name": "com.example.transviti_assessment_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808262353334-bf9cp08mh7g763i63qme6momo3qe5sqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Tkbf4nzH6l4jRJtXAM7hIMtcL1oQU4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808262353334-bf9cp08mh7g763i63qme6momo3qe5sqh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "808262353334-3oo3hkhf80j1e7b9j11l610gvs9hi8gh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.solutionSolTask2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
